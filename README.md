@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ammar+Ageeza!+😎;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdulziz+Shaban!+😎;" />
 </div>
 
 <br>
@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Advanced Flutter**.
 
-- 👨‍💻 All of my projects are available at **[My Repository](https://github.com/AmmarAgeeza?page=1&tab=repositories)**.
+- 👨‍💻 All of my projects are available at **[My Repository](https://github.com/AbdulazizShaban2003?tab=repositories)**.
 
 <br>
 <div align="center">
